@@ -36,15 +36,6 @@
             android:textOff="@string/main_btn_show_incompleted"
             android:textOn="@string/main_btn_show_completed" />
 
-        <!--<Switch-->
-            <!--android:id="@+id/btn_complete"-->
-            <!--android:layout_width="fill_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="@string/main_btn_show_completed"-->
-            <!--android:textOff="@string/main_btn_show_completed"-->
-            <!--android:textOn="@string/main_btn_show_completed" />-->
-
     </LinearLayout>
 
 </LinearLayout>
