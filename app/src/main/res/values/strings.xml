@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ToDo</string>
+    <string name="text_btn_complete_status">Completed?</string>
+    <string name="main_btn_show_completed">Complete</string>
+    <string name="main_btn_show_incompleted">Incomplete</string>
+    <string name="main_btn_new_task">Add New Task</string>
+    <string name="Complete">Complete</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
